@@ -10,3 +10,5 @@ Login con correo y contraseña desde Firebase en Android
 * 5-Conecta tu proyecto de Firebase con el proyecto de Android de la siguiente manera:
    *  Tools>Firebase>Selecciona tu proyecto de Firebase>Selecciona Authentication.
 * 6-Listo prueba el proyecto.
+
+# O simplemente ejecuta el proyecto en Android Studio :) :D 
