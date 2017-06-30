@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAuthUser</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="signIn">Sign In</string>
+    <string name="welcomeFullStack">Welcome to FullStack Community</string>
+    <string name="SignOut">Sign Out</string>
+</resources>
